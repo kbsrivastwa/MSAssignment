@@ -1,0 +1,74 @@
+INFO main com.ms.stocks.MSStockTest5 - For stock symbol ' TEA'
+INFO main com.ms.stocks.MSStockTest5 - Given any price : 2500.0
+INFO main com.ms.stocks.MSStockTest5 - Calculated dividend Yield : 0.0
+INFO main com.ms.stocks.MSStockTest5 - Calculated peRatio : Infinity
+INFO main com.ms.stocks.MSStockTest5 - Recorded + Given trade details : Stock symbol : TEA , Quantity : 500 , Buy or Sell : BUY , Traded price : 1000.0 , Timestamp : 2016-09-02 09:11:00.444
+INFO main com.ms.stocks.MSStockTest5 - 
+
+INFO main com.ms.stocks.MSStockTest5 - For stock symbol ' POP'
+INFO main com.ms.stocks.MSStockTest5 - Given any price : 2500.0
+INFO main com.ms.stocks.MSStockTest5 - Calculated dividend Yield : 0.0032
+INFO main com.ms.stocks.MSStockTest5 - Calculated peRatio : 781250.0
+INFO main com.ms.stocks.MSStockTest5 - Recorded + Given trade details : Stock symbol : POP , Quantity : 600 , Buy or Sell : SELL , Traded price : 2000.0 , Timestamp : 2016-09-02 09:11:00.444
+INFO main com.ms.stocks.MSStockTest5 - 
+
+INFO main com.ms.stocks.MSStockTest5 - For stock symbol ' ALE'
+INFO main com.ms.stocks.MSStockTest5 - Given any price : 2500.0
+INFO main com.ms.stocks.MSStockTest5 - Calculated dividend Yield : 0.0092
+INFO main com.ms.stocks.MSStockTest5 - Calculated peRatio : 271739.1304347826
+INFO main com.ms.stocks.MSStockTest5 - Recorded + Given trade details : Stock symbol : ALE , Quantity : 700 , Buy or Sell : SELL , Traded price : 3000.0 , Timestamp : 2016-09-02 09:11:00.444
+INFO main com.ms.stocks.MSStockTest5 - 
+
+INFO main com.ms.stocks.MSStockTest5 - For stock symbol'  GIN'
+INFO main com.ms.stocks.MSStockTest5 - Given any price : 2500.0
+INFO main com.ms.stocks.MSStockTest5 - Calculated dividend Yield : 8.0E-4
+INFO main com.ms.stocks.MSStockTest5 - Calculated peRatio : 3125000.0
+INFO main com.ms.stocks.MSStockTest5 - Recorded + Given trade details : Stock symbol : GIN , Quantity : 800 , Buy or Sell : BUY , Traded price : 4000.0 , Timestamp : 2016-09-02 09:11:00.444
+INFO main com.ms.stocks.MSStockTest5 - 
+
+INFO main com.ms.stocks.MSStockTest5 - For stock symbol ' JOE'
+INFO main com.ms.stocks.MSStockTest5 - Given any price : 2500.0
+INFO main com.ms.stocks.MSStockTest5 - Calculated dividend Yield : 0.0052
+INFO main com.ms.stocks.MSStockTest5 - Calculated peRatio : 480769.2307692308
+INFO main com.ms.stocks.MSStockTest5 - Recorded + Given trade details : Stock symbol : JOE , Quantity : 900 , Buy or Sell : SELL , Traded price : 5000.0 , Timestamp : 2016-09-02 09:11:00.444
+INFO main com.ms.stocks.MSStockTest5 - 
+
+INFO main com.ms.stocks.MSStockTest5 - Calculated Volume Weighted Stock Price : 3285.714285714286
+INFO main com.ms.stocks.MSStockTest5 - Calculated Geometric Mean : 2.4E16
+INFO main com.ms.stocks.MoSStockTest - For stock symbol ' TEA'
+INFO main com.ms.stocks.MoSStockTest - Given any price : 2500.0
+INFO main com.ms.stocks.MoSStockTest - Calculated dividend Yield : 0.0
+INFO main com.ms.stocks.MoSStockTest - Calculated peRatio : Infinity
+INFO main com.ms.stocks.MoSStockTest - Recorded + Given trade details : Stock symbol : TEA , Quantity : 500 , Buy or Sell : BUY , Traded price : 1000.0 , Timestamp : 2016-09-02 09:15:17.345
+INFO main com.ms.stocks.MoSStockTest - 
+
+INFO main com.ms.stocks.MoSStockTest - For stock symbol ' POP'
+INFO main com.ms.stocks.MoSStockTest - Given any price : 2500.0
+INFO main com.ms.stocks.MoSStockTest - Calculated dividend Yield : 0.0032
+INFO main com.ms.stocks.MoSStockTest - Calculated peRatio : 781250.0
+INFO main com.ms.stocks.MoSStockTest - Recorded + Given trade details : Stock symbol : POP , Quantity : 600 , Buy or Sell : SELL , Traded price : 2000.0 , Timestamp : 2016-09-02 09:15:17.345
+INFO main com.ms.stocks.MoSStockTest - 
+
+INFO main com.ms.stocks.MoSStockTest - For stock symbol ' ALE'
+INFO main com.ms.stocks.MoSStockTest - Given any price : 2500.0
+INFO main com.ms.stocks.MoSStockTest - Calculated dividend Yield : 0.0092
+INFO main com.ms.stocks.MoSStockTest - Calculated peRatio : 271739.1304347826
+INFO main com.ms.stocks.MoSStockTest - Recorded + Given trade details : Stock symbol : ALE , Quantity : 700 , Buy or Sell : SELL , Traded price : 3000.0 , Timestamp : 2016-09-02 09:15:17.345
+INFO main com.ms.stocks.MoSStockTest - 
+
+INFO main com.ms.stocks.MoSStockTest - For stock symbol'  GIN'
+INFO main com.ms.stocks.MoSStockTest - Given any price : 2500.0
+INFO main com.ms.stocks.MoSStockTest - Calculated dividend Yield : 8.0E-4
+INFO main com.ms.stocks.MoSStockTest - Calculated peRatio : 3125000.0
+INFO main com.ms.stocks.MoSStockTest - Recorded + Given trade details : Stock symbol : GIN , Quantity : 800 , Buy or Sell : BUY , Traded price : 4000.0 , Timestamp : 2016-09-02 09:15:17.345
+INFO main com.ms.stocks.MoSStockTest - 
+
+INFO main com.ms.stocks.MoSStockTest - For stock symbol ' JOE'
+INFO main com.ms.stocks.MoSStockTest - Given any price : 2500.0
+INFO main com.ms.stocks.MoSStockTest - Calculated dividend Yield : 0.0052
+INFO main com.ms.stocks.MoSStockTest - Calculated peRatio : 480769.2307692308
+INFO main com.ms.stocks.MoSStockTest - Recorded + Given trade details : Stock symbol : JOE , Quantity : 900 , Buy or Sell : SELL , Traded price : 5000.0 , Timestamp : 2016-09-02 09:15:17.345
+INFO main com.ms.stocks.MoSStockTest - 
+
+INFO main com.ms.stocks.MoSStockTest - Calculated Volume Weighted Stock Price : 3285.714285714286
+INFO main com.ms.stocks.MoSStockTest - Calculated Geometric Mean : 2.4E16
